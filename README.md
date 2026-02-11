@@ -1,5 +1,7 @@
 # 🎧 YuBuds - 小米智能音频眼镜 PC 端电量管家
 
+![YuBuds Preview](screenshots/preview.png)
+
 ![YuBuds Logic](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&logo=googleshell&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/UI-PyQt6-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Windows Only](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
